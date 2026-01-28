@@ -8,7 +8,7 @@
   <a href="mailto:bejo@tvojmail.com">
     <img src="https://img.shields.io/badge/Email-bejo%40tvojmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="tel:+38761123456">
+  <a href="tel:+">
     <img src="https://img.shields.io/badge/Phone-+387%2061%20123%20456-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
   </a>
   <a href="https://tvoj-domen.com">
