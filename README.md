@@ -63,8 +63,8 @@ Radim **brza, sigurna i održiva rješenja** koja donose stvarne rezultate (pozi
 ### Kontaktiraj me
 Piši mi za tvoj projekt – od vizit-karte do punog shopa sa adminom i narudžbama.
 
-📧 bejo@tvojmail.com  
-📞 +387 61 123 456  
+📧  
+📞 
 🌍 Tuzla, BiH
 
 ---
